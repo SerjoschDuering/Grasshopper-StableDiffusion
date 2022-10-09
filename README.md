@@ -29,7 +29,7 @@ in your stable diffusion folder (prerequisites Step A), navigate to
 
 1. Open Rhino 7+, launch grasshopper and open main.gh.
 In the upper section of the humanUI window, set viewport name and file path to the stable diffusion model
-2. open an **anaconda prompt**  and paste the commands to start the stable diffusion model 
+2. open an **anaconda prompt**  and paste the commands to start the stable diffusion model (see image below)
 
 ![Untitled](https://github.com/SerjoschDuering/Grasshopper-StableDiffusion/raw/main/images/Untitled%201.png)
 
