@@ -132,7 +132,7 @@ def main_loop(t2i, outdir, prompt_as_dir, parser, infile):
         path_max = 260
         name_max = 255
 
-    while not done: # <<<============================================================== loop 
+    while not done: 
         try:
             command = get_next_command(infile)
         except EOFError:
@@ -335,10 +335,7 @@ def main_loop(t2i, outdir, prompt_as_dir, parser, infile):
     print('goodbye!')
 
 
-#=========================================================================================================
-#=========================================================================================================
-#=========================================================================================================
-# =========================================================================================================
+# socket version
 
 def socket_loop(t2i, outdir, prompt_as_dir, parser, HOST, PORT):
     """prompt/read/execute loop"""
@@ -355,7 +352,7 @@ def socket_loop(t2i, outdir, prompt_as_dir, parser, HOST, PORT):
         name_max = 255
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.bind((HOST,PORT))
-        while not done: # <<<============================================================== LOOOOP
+        while not done:
             
             s.listen()
             print(f'\nListening for messages from port: {PORT}')
