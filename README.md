@@ -35,7 +35,7 @@ In the upper section of the humanUI window, set viewport name and file path to t
 
 **Sample Images** 
 
-Naturally the model is not limited to a particular domain
+Naturally, the model is not limited to a particular domain
 
 ![Untitled](https://github.com/SerjoschDuering/Grasshopper-StableDiffusion/raw/main/images/Untitled%202.png)
 
