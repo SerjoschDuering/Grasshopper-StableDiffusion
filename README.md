@@ -5,13 +5,12 @@ The preset mode is image2image translation where a prompt is combined with a gui
 Additionally a simple humanUI interface is provided. Moreover, the script calling the stable diffusion model through a socket is wrapped in a hops definition in order to utilize the async functionality (while the image is computed the viewport won't freeze). 
 
 ![Untitled](https://github.com/SerjoschDuering/Grasshopper-StableDiffusion/raw/main/images/Untitled.png)
-
+![Untitled](https://github.com/SerjoschDuering/Grasshopper-StableDiffusion/raw/main/images/spcow.PNG)
 ## Prerequisites
 
 A) **Stable Diffusion Model**
 
 - Clone this [repro](https://github.com/invoke-ai/InvokeAI) and follow Installation instructions
-→ ‣
 
 B) **Grasshopper Plugins**
 
