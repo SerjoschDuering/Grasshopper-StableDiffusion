@@ -1,5 +1,5 @@
 
-#!!! Outdated please use this, improved repro: **https://github.com/SerjoschDuering/StableDiffusion-Grasshopper** !!!
+# !!! Outdated please use this, improved repro: **https://github.com/SerjoschDuering/StableDiffusion-Grasshopper** !!!
 
 ## Grasshopper-StableDiffusion
 
