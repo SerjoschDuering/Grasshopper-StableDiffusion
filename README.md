@@ -1,4 +1,7 @@
-# Grasshopper-StableDiffusion
+
+#!!! Outdated please use this, improved repro: **https://github.com/SerjoschDuering/StableDiffusion-Grasshopper** !!!
+
+## Grasshopper-StableDiffusion
 
 A slightly modified version of **[InvokeAI: A Stable Diffusion Toolkit](https://github.com/invoke-ai/InvokeAI) /** [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) where the stable diffusion model can be connected to grasshopper (or anything else) through sockets. 
 The preset mode is image2image translation where a prompt is combined with a guiding input image. In this case, the guiding image is taken from rhino's viewport.
