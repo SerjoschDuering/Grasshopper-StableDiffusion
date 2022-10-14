@@ -13,7 +13,7 @@ Additionally, a simple humanUI interface is provided. Moreover, the script calli
 
 A) **Stable Diffusion Model**
 
-- Clone this [repro](https://github.com/invoke-ai/InvokeAI) and follow Installation instructions
+- Clone this [repro](https://github.com/SerjoschDuering/StableDiffusion-Grasshopper) and follow Installation instructions
 
 B) **Grasshopper Plugins**
 
